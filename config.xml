@@ -10,11 +10,13 @@
     <name>TapTapBricky</name>
 
     <description>
-        Ann app made using Scratch, Phonegap, github, and PhoneGap
+        Avoid the RED BLOCKS while clicking the BLACK BLOCKS to gain score.
+        Game developed by Igniteous
+        Developed in Scratch
     </description>
 
     <author href="http://scratch.mit.edu/users/Igniteous" email="igniteousdev@gmail.com">
-        [Your Username]
+        igniteous
     </author>
 
 </widget>
